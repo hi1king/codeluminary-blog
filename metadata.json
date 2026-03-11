@@ -1,0 +1,5 @@
+{
+  "name": "Luminary Blog",
+  "description": "A modern full-stack blog platform built with Next.js and Supabase.",
+  "requestFramePermissions": []
+}
