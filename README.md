@@ -1,6 +1,6 @@
 # Luminary Blog
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fcodeluminary-blog)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/hi1king/codeluminary-blog)
 
 一个现代化的全栈博客平台，专注于写作体验与内容分享。由 **Next.js 15** 和 **Supabase** 强力驱动，内置完整的认证、评论、点赞与分类检索系统。
 
@@ -80,7 +80,7 @@ likes        -- 点赞（post_id, user_id）
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/codeluminary-blog.git
+git clone https://github.com/hi1king/codeluminary-blog.git
 cd codeluminary-blog
 ```
 
