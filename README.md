@@ -158,7 +158,7 @@ codeluminary-blog/
 
 ---
 
-## � License
+## License
 
 Copyright (c) 2026 Luminary Blog Contributors
 
